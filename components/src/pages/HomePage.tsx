@@ -1,5 +1,3 @@
-import { Link } from 'react-router-dom';
-
 export default function HomePage() {
   return (
     <div className="font-['Noto_Sans_KR'] min-h-screen bg-warm-950 text-warm-100 antialiased">
